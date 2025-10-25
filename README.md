@@ -27,6 +27,8 @@
 ### Donations
 In case you would like to support me, you can make a donation using the options bellow 😊. Donations ARE NOT required to consume/use any content!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N31NDL59)
+
  Coin | Address
 ----|----|
 Bitcoin | bc1q36tlwv6a4p0rlrtt088atwu7yjce63we38pn8v
