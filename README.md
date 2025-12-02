@@ -1,4 +1,4 @@
-# List of project created in video
+# List of projects created in video
 
 <table>
   <tr>
