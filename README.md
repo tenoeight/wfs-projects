@@ -6,8 +6,8 @@
     <th>Description</th>
     <th>WFS¹</th>
     <th>Video</th>
-    <th>File(s)</th>
-    <th>External file(s)</th>
+    <th>File(s)²</th>
+    <th>External file(s)³</th>
   </tr>
   <tr>
     <td>P001</td>
@@ -24,6 +24,8 @@
   </tr>
 </table>
 ¹ Version of the Watch Face Studio used to create the project.
+<br>² File(s) created by me.
+<br>³ Link(s) to third-party file(s) used in the project.
 
 # Donations
 In case you would like to support me, you can make a donation using the options bellow 😊. Donations ARE NOT required to consume/use any content!
