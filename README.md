@@ -10,6 +10,22 @@
     <th>External file(s)³</th>
   </tr>
   <tr>
+    <td>P002</td>
+    <td>Flux concept</td>
+    <td>1.9.5</td>
+    <td>
+      
+[![link](https://img.shields.io/badge/Youtube-ff0000?logo=youtube)](https://youtu.be/z9wRgEZ0j98)
+    </td>
+    <td>
+[<img src="pills/wfs.png" height="22px">](https://tenoeight.github.io/wfs-projects/projects/P002/P002.wfs)
+[<img src="pills/zip.png" height="22px">](https://tenoeight.github.io/wfs-projects/projects/P002/bitmap_font.zip)
+    </td>
+    <td>
+[<img src="pills/ttf.png" height="22px">](https://fonts.google.com/specimen/Aldrich)
+    </td>
+  </tr>
+  <tr>
     <td>P001</td>
     <td>Marquee text</td>
     <td>1.9.5</td>
