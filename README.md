@@ -10,6 +10,23 @@
     <th>External file(s)³</th>
   </tr>
   <tr>
+    <td>P003</td>
+    <td>Week calendar</td>
+    <td>1.9.5</td>
+    <td>
+      
+[![link](https://img.shields.io/badge/Youtube-ff0000?logo=youtube)](https://youtu.be/3JFotxliTyo)
+    </td>
+    <td>
+[<img src="pills/wfs.png" height="22px">](https://tenoeight.github.io/wfs-projects/projects/P003/P003.wfs)
+    </td>
+    <td>
+[<img src="pills/ttf.png" height="22px">](https://fonts.google.com/specimen/Roboto)
+[<img src="pills/ttf.png" height="22px">](https://fonts.google.com/specimen/Rubik)
+[<img src="pills/png.png" height="22px">](https://fonts.google.com/icons?selected=Material+Symbols+Rounded:calendar_month:FILL@1;wght@400;GRAD@0;opsz@24&icon.query=calendar&icon.style=Rounded&icon.size=28&icon.color=%23FFFFFF)
+    </td>
+  </tr>
+  <tr>
     <td>P002</td>
     <td>Flux concept</td>
     <td>1.9.5</td>
